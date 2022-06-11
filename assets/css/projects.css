@@ -1,0 +1,19 @@
+.spacing-top-minus {
+    margin-top: 0 !important;
+}
+
+.projects h2 {
+    margin-bottom: 0;
+}
+
+.hide {
+    display: none;
+}
+
+.padding-top {
+    padding-top: 2em !important;
+}
+
+.active {
+    border-color: red;
+}
