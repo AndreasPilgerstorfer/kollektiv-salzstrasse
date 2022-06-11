@@ -8,3 +8,23 @@
     margin: 4em 0 0 0;
 }
 
+.img-style {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.press a {
+    color: #787878;
+}
+
+.press a:hover {
+    color: #787878 !important;
+    text-decoration: none;
+}
+
+.press p:hover {
+    color: #787878;
+    text-decoration: none;
+}
