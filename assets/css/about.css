@@ -1,0 +1,10 @@
+#main > #one {
+    border-top: none;
+    padding: 0 0 0 0;
+    margin: 0;
+}
+
+.spacing-top {
+    margin: 4em 0 0 0;
+}
+
