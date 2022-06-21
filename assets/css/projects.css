@@ -15,5 +15,6 @@
 }
 
 .active {
-    border-color: red;
+    border-color: #D186BC;
+    color: #D186BC !important;
 }
