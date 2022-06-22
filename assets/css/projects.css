@@ -3,7 +3,7 @@
 }
 
 .projects h2 {
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
 
 .hide {
@@ -17,4 +17,15 @@
 .active {
     border-color: #D186BC;
     color: #D186BC !important;
+}
+
+
+.img-container {
+    height: 300px;
+}
+
+.img-sizer {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
 }
