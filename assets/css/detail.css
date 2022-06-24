@@ -41,3 +41,16 @@
     top: 0;
     width: 100%;
 }
+
+.bacio .detail {
+    justify-content: center;
+    display: flex;
+    background-color: #8DC2D9 ;
+    /*background-color: #D186BC ; */
+}
+
+.bacio .detail > img {
+    border-radius: 0;
+    display: block;
+    margin: auto;
+}
